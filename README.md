@@ -15,7 +15,7 @@ Our project's main goal is to breath new life to Macs no longer supported by App
 
 Noteworthy features of OpenCore Legacy Patcher:
 
-* Support for macOS Big Sur and Monterey
+* Support for macOS Big Sur and Monterey (Now with Ventura)
 * Native Over the Air(OTA) System Updates
 * Supports Penryn and newer Macs
 * Full support for WPA Wifi and Personal Hotspot on BCM943224 and newer chipsets
@@ -93,3 +93,5 @@ To run the project from source, see here: [Build and run from source](./SOURCE.m
   * Endless testing, reporting issues
 * Apple
   * for macOS and many of the kexts, frameworks and other binaries we reimplemented into newer OSes
+  * [Devwashere] (https://github.com/Devwashere/) 
+  * Updating the description to its current state.
